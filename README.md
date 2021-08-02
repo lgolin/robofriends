@@ -24,4 +24,4 @@ On terminal:
 
 ## Authors
 
-- **Laís Golin** - [lgolin](
+**Laís Golin** - [lgolin](https://github.com/lgolin)
