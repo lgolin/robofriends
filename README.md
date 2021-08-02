@@ -1,8 +1,27 @@
-# robofriends
+# RoboFriends
 
-Tutorial for React
-To run the project:
+A cool modern search card app.
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+## Prerequisites
+
+NPM installed
+
+## Getting Started
+
+On terminal:
+
+1. Run `git clone https://github.com/lgolin/robofriends.git`
+2. Run `cd robofriends`
+3. Run `npm install`
+4. Run `npm start`
+
+## Built With
+
+- HTML
+- CSS
+- Javascript
+- React.js
+
+## Authors
+
+- **Laís Golin** - [lgolin](https://github.com/lgolin)
