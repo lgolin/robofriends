@@ -1,12 +1,12 @@
-# RoboFriends
+# :robot: RoboFriends
 
 A cool modern search card app.
 
-## Prerequisites
+## :heavy_check_mark: Prerequisites
 
 NPM installed
 
-## Getting Started
+## :checkered_flag: Getting Started
 
 On terminal:
 
@@ -15,7 +15,7 @@ On terminal:
 3. Run `npm install`
 4. Run `npm start`
 
-## Built With
+## :construction: Built With
 
 - HTML
 - CSS
@@ -24,4 +24,4 @@ On terminal:
 
 ## Authors
 
-- **Laís Golin** - [lgolin](https://github.com/lgolin)
+- **Laís Golin** - [lgolin](
